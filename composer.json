@@ -1,0 +1,17 @@
+{
+    "name": "pavex/publixe-url",
+    "description": "Url and Url script container",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Mach·Ëek",
+            "email": "pavex@ines.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
