@@ -1,7 +1,7 @@
 # publixe-url
 Url and Url script container
 
-Here is a small example:
+Here is a short example:
 ```php
 use Publixe\Url;
 
